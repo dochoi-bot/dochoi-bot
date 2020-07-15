@@ -3,7 +3,7 @@ Thank you for visiting my repositories
 
 🌱 I’m currently learning a lot in 42 seoul
 
-😄 Intra name: dochoi
+😄 Intra : dochoi
 
 ⚡ My blog : https://choidongkyu96.github.io/
 <!--
