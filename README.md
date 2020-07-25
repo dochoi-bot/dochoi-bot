@@ -8,10 +8,10 @@ Thank you for visiting my repositories
 😄 42 Intra ID: dochoi
 
 🖌 My skills<br>
-  🔴 C, C++, Python, Swift<br>
+  >>🔴 C, C++, Python, Swift<br>
   
 🤔 Interested
-  🔵 Computer Vision, Data Science, iOS, Embedded system...
+ >>🔵 Data Science, iOS, Embedded system...
   
   
   ⚡ My blog : https://choidongkyu96.github.io/
