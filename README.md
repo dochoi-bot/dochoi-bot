@@ -3,7 +3,7 @@ Thank you for visiting my repositories
 
 🌱 I’m currently learning a lot in 42 Seoul   (2020-01-20 ~)
 
-🧐 I’m currently learning swift in Boostcamp  (2020-07-27 ~)
+🧐 I’m currently learning iOS in Boostcamp  (2020-07-27 ~)
 
 😄 42 Intra ID: dochoi
 
