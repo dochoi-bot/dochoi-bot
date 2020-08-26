@@ -11,7 +11,7 @@ Thank you for visiting my repositories
   >🔴 C, C++, Python, Swift<br>
   
 🤔 Interested
- >🔵 Data Science, iOS, Embedded system...
+ >🔵 Data Science, Server, iOS, Embedded system...
   
   
   ⚡ My blog : https://choidongkyu96.github.io/
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Solved.ac(BOJ)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdrb345)](https://solved.ac/ehdrb345)
