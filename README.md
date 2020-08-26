@@ -5,7 +5,7 @@ Thank you for visiting my repositories
 
 🧐 I’m currently learning iOS in Boostcamp  (2020-07-27 ~)
 
-😄 42 Intra ID: dochoi
+📫 42 Intra ID: dochoi
 
 🖌 My skills<br>
   >🔴 C, C++, Python, Swift<br>
@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Solved.ac(BOJ)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdrb345)](https://solved.ac/ehdrb345)
