@@ -11,7 +11,7 @@ Thank you for visiting my repositories
   >🔴 C, C++, Python, Swift<br>
   
 🤔 Interested
- >🔵 Data Science, Server, iOS, Embedded system...
+ >🔵 iOS, Data Science, Server, Embedded system...
   
   
   ⚡ My blog : https://choidongkyu96.github.io/
