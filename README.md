@@ -3,7 +3,7 @@ Thank you for visiting my repositories
 
 🌱 I’m currently learning a lot in 42 Seoul   (2020-01-20 ~)
 
-🧐 I’m currently learning iOS in Boostcamp  (2020-07-27 ~)
+🧐 I was learning iOS in Boostcamp  (2020-07-27 ~ 2020-12-21)
 
 📫 42 Intra ID: dochoi
 
@@ -14,7 +14,7 @@ Thank you for visiting my repositories
  >🔵 iOS, Data Science, Server, Embedded system...
   
   
-  ⚡ My blog : https://choidongkyu96.github.io/
+  ⚡ My blog : https://demian-develop.tistory.com/
 <!--
 **ChoiDongKyu96/ChoiDongKyu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
