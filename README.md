@@ -9,7 +9,7 @@ Thank you for visiting my repositories
 
 🖌 My skills<br>
   >🔴 C, C++, Python, Swift<br>
-  asd
+
 🤔 Interested
  >🔵 iOS, Data Science, Server, Embedded system...
   
