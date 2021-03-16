@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thank you for visiting my repositories
 
-🌱 I’m currently learning a lot in 42 Seoul   (2020-01-20 ~)
+🌱 I was learning a lot in 42 Seoul   (2020-01-20 ~ 2021-03-10)
 
 🧐 I was learning iOS in Boostcamp  (2020-07-27 ~ 2020-12-21)
 
