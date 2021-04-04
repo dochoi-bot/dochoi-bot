@@ -11,7 +11,7 @@ Thank you for visiting my repositories
   >🔴 C, C++, Python, Swift<br>
 
 🤔 Interested. 
- >🔵 iOS, Data Science, Server, Embedded system...
+ >🔵 iOS
   
   
   ⚡ My blog : https://demian-develop.tistory.com/
